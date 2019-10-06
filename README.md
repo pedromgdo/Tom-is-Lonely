@@ -1,5 +1,5 @@
 # Tom is Lonely
-Tom is Lonely is a plaformer entry for the Ludem Dare 45 Game Jam with the theme 'Start with Nothing'
+Tom is Lonely is a plaformer entry for the Ludum Dare 45 Game Jam with the theme 'Start with Nothing'
 
 ## About the game
 In this game you will be able to play the same level 10 times, each time getting progressively harder, try to beat the game with the least number of deaths!
